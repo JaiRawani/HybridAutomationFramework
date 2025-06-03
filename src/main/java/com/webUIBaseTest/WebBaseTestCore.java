@@ -1,6 +1,6 @@
 package com.webUIBaseTest;
 
-import io.strati.libs.commons.io.FileUtils;
+import org.apache.commons.io.FileUtils;
 import org.testng.ITestContext;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
